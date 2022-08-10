@@ -13,7 +13,7 @@ onMounted(() => {
       <button
         class="overflow-hidden p-2"
         @click="switchTheme()"
-      >
+      >aaaaa
         <transition
           enter-active-class="transition duration-200 ease-out"
           leave-active-class="transition duration-200 ease-in"
